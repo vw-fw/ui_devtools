@@ -1,0 +1,14 @@
+*.DS_Store
+*.codekit
+*.mo
+*.pyc
+*.sass-cache
+*.volt.php
+/.idea/
+/config/config.local.php
+/conf/*
+!/conf/.placeholder
+/cache/*
+!/cache/.placeholder
+/temp/*
+!/temp/.placeholder
